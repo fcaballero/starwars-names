@@ -1,5 +1,5 @@
 {
-  "name": "starwars-names",
+  "name": "starwars-names-fc",
   "version": "1.0.0",
   "description": "Get a random Start Wars name",
   "main": "./src/index.js",
